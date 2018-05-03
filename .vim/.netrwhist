@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/brandonb/gitatc/puppet/modules/prometheus/templates/alerting_rules'
+let g:netrw_dirhist_2='/home/brandonb/git/uber-puppet-manifests/modules/profile/manifests/apache_aurora/scheduler'
+let g:netrw_dirhist_3='/home/brandonb/git/uber-puppet-manifests/modules/apache_aurora/templates/scheduler'
+let g:netrw_dirhist_4='/home/brandonb/git/uber-puppet-manifests/modules/apache_aurora/manifests/executor'
+let g:netrw_dirhist_5='/home/brandonb/git/uber-puppet-manifests/modules/profile/manifests/apache_aurora/scheduler'
+let g:netrw_dirhist_6='/home/brandonb/git/clm/services/validators/agent'
